@@ -4,6 +4,13 @@
 
   (paper "USLetter")
 
+  (title_block
+    (title "Apple IIe 80 column/64k memory expansion card")
+    (date "2024-02-17")
+    (rev "0")
+    (company "Bradley Bell")
+  )
+
   (lib_symbols
     (symbol "74xx:74LS14" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
       (property "Reference" "U" (at 0 1.27 0)
